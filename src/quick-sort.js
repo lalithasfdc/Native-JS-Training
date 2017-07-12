@@ -2,7 +2,7 @@
 
 function quickSort(input) {
 if (Array.isArray(input) && input.length >= 0) {
-   if (input.length == 0 || input.length == 1) {
+   if (input.length >= 1) {
     return input;
 
    } 
