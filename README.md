@@ -1,1 +1,1 @@
-# quick-sort
+# JS Training
